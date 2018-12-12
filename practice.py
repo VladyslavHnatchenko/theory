@@ -1,3 +1,11 @@
+# try except else finally:
+def calc(m):
+    # 1000 : 10 = m : x
+    return 10 * m / 1000
+
+
+print(calc(1000))
+
 # List comprehension
 # Генераторы списков
 # names = ['jack', 'john', 'oleg', 'ula']
